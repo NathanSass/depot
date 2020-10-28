@@ -10,7 +10,11 @@
       margin: 0;
       border-bottom: solid thin #ddd;
       // This makes sure our <li> has enough height // to hold the entire image, since it's floated &::after {
-      clear: both; content: " "; display: block;
+      &::after {
+        clear: both;
+        content: " ";
+        display: block;
+      }
     }
     img {
       float: left;
