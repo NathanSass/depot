@@ -64,6 +64,7 @@
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.10.10, chruby: ruby-2.4.7) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="puma (v3.12.6, chruby: ruby-2.4.7) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v2.2.3, chruby: ruby-2.4.7) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-proxy (v0.6.5, chruby: ruby-2.4.7) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.3, chruby: ruby-2.4.7) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails (v5.0.7.2, chruby: ruby-2.4.7) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v2.0.3, chruby: ruby-2.4.7) [gem]" level="application" />
@@ -89,6 +90,7 @@
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.7, chruby: ruby-2.4.7) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="uglifier (v4.2.0, chruby: ruby-2.4.7) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="web-console (v3.7.0, chruby: ruby-2.4.7) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="webpacker (v3.6.0, chruby: ruby-2.4.7) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.6.5, chruby: ruby-2.4.7) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.5, chruby: ruby-2.4.7) [gem]" level="application" />
   </component>
