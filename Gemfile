@@ -21,6 +21,7 @@ gem 'uglifier', '>= 1.3.0'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'capybara'
 gem 'selenium-client'
+gem 'selenium-webdriver'
 gem 'coffee-rails'
 gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
